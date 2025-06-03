@@ -2,7 +2,7 @@
 
 UI of an audiobook app meant to cater to bibliophiles.  
 Done as a course project for IHCI in Monsoon 2022.  
-Tools utilised: Canva, Figma and Procreate.
+**Tools utilised*** : Canva, Figma and Procreate.
 
 ## Low Fidelity Design
 
